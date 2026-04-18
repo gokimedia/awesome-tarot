@@ -70,6 +70,8 @@ Maintained by [Deckaura](https://deckaura.com) — free tarot tools and 78-card 
 - [Tarot Journal for Obsidian](https://github.com/gokimedia/obsidian-tarot-journal) — Vault-integrated tarot logging
 - [Daily Tarot for Raycast](https://www.raycast.com/deckaura/daily-tarot) — Raycast extension
 
+- [Daily Tarot (Telegram)](https://t.me/thisisthedailytarotbot) — Daily tarot card Mini App inside Telegram, Rider-Waite deck (public domain), 7 languages, deterministic daily pull, Telegram Stars payments. Web: https://tarot.tri.ovh
+
 ## Academic Resources
 
 - [Zenodo: Tarot Card Meanings Dataset](https://zenodo.org) — DOI-citable dataset (pending deposit)
