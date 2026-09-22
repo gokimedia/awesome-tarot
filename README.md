@@ -40,6 +40,8 @@ Maintained by [Deckaura](https://deckaura.com) — free tarot tools and 78-card 
 - [Tarot Questions Guide](https://deckaura.com/pages/tarot-questions) — What to ask
 - [Tarot Spreads Guide](https://deckaura.com/pages/tarot-spreads) — Spread patterns
 
+- [Suanleb](https://suanlem.asia/) — Browser-based three-card Tarot readings with upright and reversed cards, plus Bazi and Vedic astrology tools.
+
 ## Astrology & Divination Tools
 
 - [Birth Chart Calculator](https://deckaura.com/pages/birth-chart-calculator)
