@@ -40,6 +40,8 @@ Maintained by [Deckaura](https://deckaura.com) — free tarot tools and 78-card 
 - [Tarot Questions Guide](https://deckaura.com/pages/tarot-questions) — What to ask
 - [Tarot Spreads Guide](https://deckaura.com/pages/tarot-spreads) — Spread patterns
 
+- [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual (8-language) tarot reading PWA with daily readings, meditation music, and moon calendar. No signup required.
+
 ## Astrology & Divination Tools
 
 - [Birth Chart Calculator](https://deckaura.com/pages/birth-chart-calculator)
