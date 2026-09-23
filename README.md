@@ -31,6 +31,7 @@ Maintained by [Deckaura](https://deckaura.com) — free tarot tools and 78-card 
 - [Tarot MCP Server](https://github.com/gokimedia/tarot-mcp-server) — Model Context Protocol server exposing tarot tools to Claude Desktop, Cursor, Windsurf, and Zed. [Official Registry record](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.gokimedia%2Ftarot-mcp-server).
 
 ## Free Online Tools
+- [Lumi Tarot](https://createdbyaicreator.cloud/creations/tarot) — Free tarot readings with Lumi the cat guide. Full 78-card deck, no signup, 6 languages (EN/KO/JA/ZH/ES/FR). Mobile-friendly.
 
 - [Daily Tarot Card](https://deckaura.com/pages/daily-tarot-card) — Date-seeded daily card
 - [Free Tarot Reading](https://deckaura.com/pages/tarot-reading) — Full Celtic Cross spread
