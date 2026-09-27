@@ -78,6 +78,8 @@ Maintained by [Deckaura](https://deckaura.com) — free tarot tools and 78-card 
 - [Official Deckaura Tarot MCP Registry record](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.gokimedia%2Ftarot-mcp-server) — Verified MCPB distribution metadata
 - [Permanent Zenodo DOI](https://doi.org/10.5281/zenodo.19475329) — Citable archive
 
+- [Daily Tarot (Telegram)](https://t.me/thisisthedailytarotbot) — Daily tarot card Mini App inside Telegram, Rider-Waite deck (public domain), 7 languages, deterministic daily pull, Telegram Stars payments. Web: https://tarot.tri.ovh
+
 ## Academic Resources
 
 - [Zenodo: Tarot Card Meanings Dataset](https://doi.org/10.5281/zenodo.19475329) — DOI-citable MIT-licensed dataset
